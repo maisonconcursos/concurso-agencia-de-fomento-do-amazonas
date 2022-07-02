@@ -204,13 +204,13 @@ ESPECIALISTA DE FOMENTO - DESENVOLVIMENTO DE SISTEMAS:
 - [ ] - CMMI (Capability Maturity Model Integration).
 
 Referências:
-- [ ] - Conceitos de Linguagens de Programação - 11.ed. N.p., Bookman Editora, 2018. Página 33 de 35
-- [ ] - FOWLER, Martin, and Kobryn, Cris. UML Distilled. Boston, Addison-Wesley, 2003.
-- [ ] - Fundamentos de Segurança da Informação: com base na ISO 27001 e na ISO 27002. Brasil, Brasport, 2018.
-- [ ] - Modelagem de dados - estudos de casos abrangentes da concepção lógica à implementação. N.p., Saraiva Educação S.A., 2019.
-- [ ] - Modelagem de Processos com BPMN 2ª edição. Brasil, Brasport, 2014.
-- [ ] - PRESSMAN, Roger S. Engenharia de Software. Brasil, AMGH, 2011.
-- [ ] - SOMMERVILLE, Ian. Engenharia de software. Brasil, Pearson Prentice Hall, 2011.
-- [ ] - TANENBAUM, Andrew S., and Woodhull, Albert S. Sistemas Operacionais: Projetos e Implementação. Brasil, Grupo A - Bookman, 2009.
-- [ ]  TANENBAUM, Andrew S. Redes de computadores. Brasil, Elsevier, 2003.
-- [ ] - UM GUIA DO CONHECIMENTO EM GERENCIAMENTO DE PROJETOS (GUIA PMBOK®). N.p., Saraiva Educação S.A., 2017.
+- [ ] - [Conceitos de Linguagens de Programação - 11.ed. N.p., Bookman Editora, 2018](https://pt.b-ok.lat/book/5999320/f186c7).
+- [ ] - [FOWLER, Martin, and Kobryn, Cris. UML Distilled. Boston, Addison-Wesley, 2003.](https://pt.b-ok.lat/book/487941/e8d1a7)
+- [ ] - [Fundamentos de Segurança da Informação: com base na ISO 27001 e na ISO 27002. Brasil, Brasport, 2018.](https://pt.b-ok.lat/book/11013549/12e1d9)
+- [ ] - [Modelagem de dados - estudos de casos abrangentes da concepção lógica à implementação. N.p., Saraiva Educação S.A., 2019.](https://ler-livros.com/ler-online-ebook-pdf-modelagem-de-dados-estudos-de-casos-abrangentes-da-concepcao-logica-a-implementacao-baixar-resumo/)
+- [ ] - [Modelagem de Processos com BPMN 2ª edição. Brasil, Brasport, 2014.](https://ler-livros.com/ler-online-ebook-pdf-modelagem-de-processos-com-bpmn-2a-edicao-baixar-resumo/)
+- [ ] - [PRESSMAN, Roger S. Engenharia de Software. Brasil, AMGH, 2011.](https://pt.b-ok.lat/book/21768521/eb7aac)
+- [ ] - [SOMMERVILLE, Ian. Engenharia de software. Brasil, Pearson Prentice Hall, 2011.](https://pt.b-ok.lat/book/12634682/581b7d)
+- [ ] - [TANENBAUM, Andrew S., and Woodhull, Albert S. Sistemas Operacionais: Projetos e Implementação. Brasil, Grupo A - Bookman, 2009.
+- [ ] - [TANENBAUM, Andrew S. Redes de computadores. Brasil, Elsevier, 2003.](https://pt.b-ok.lat/book/1182431/c4f934)
+- [ ] - [UM GUIA DO CONHECIMENTO EM GERENCIAMENTO DE PROJETOS (GUIA PMBOK®). N.p., Saraiva Educação S.A., 2017.](https://pt.b-ok.lat/book/2926391/f84c00)
