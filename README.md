@@ -202,3 +202,15 @@ ESPECIALISTA DE FOMENTO - DESENVOLVIMENTO DE SISTEMAS:
 - [ ] - Tecnologia da informação aplicada à Sistemas de Informação.
 - [ ] - COBIT e ITIL.
 - [ ] - CMMI (Capability Maturity Model Integration).
+
+Referências:
+- [ ] - Conceitos de Linguagens de Programação - 11.ed. N.p., Bookman Editora, 2018. Página 33 de 35
+- [ ] - FOWLER, Martin, and Kobryn, Cris. UML Distilled. Boston, Addison-Wesley, 2003.
+- [ ] - Fundamentos de Segurança da Informação: com base na ISO 27001 e na ISO 27002. Brasil, Brasport, 2018.
+- [ ] - Modelagem de dados - estudos de casos abrangentes da concepção lógica à implementação. N.p., Saraiva Educação S.A., 2019.
+- [ ] - Modelagem de Processos com BPMN 2ª edição. Brasil, Brasport, 2014.
+- [ ] - PRESSMAN, Roger S. Engenharia de Software. Brasil, AMGH, 2011.
+- [ ] - SOMMERVILLE, Ian. Engenharia de software. Brasil, Pearson Prentice Hall, 2011.
+- [ ] - TANENBAUM, Andrew S., and Woodhull, Albert S. Sistemas Operacionais: Projetos e Implementação. Brasil, Grupo A - Bookman, 2009.
+- [ ]  TANENBAUM, Andrew S. Redes de computadores. Brasil, Elsevier, 2003.
+- [ ] - UM GUIA DO CONHECIMENTO EM GERENCIAMENTO DE PROJETOS (GUIA PMBOK®). N.p., Saraiva Educação S.A., 2017.
