@@ -211,6 +211,6 @@ Referências:
 - [ ] - [Modelagem de Processos com BPMN 2ª edição. Brasil, Brasport, 2014.](https://ler-livros.com/ler-online-ebook-pdf-modelagem-de-processos-com-bpmn-2a-edicao-baixar-resumo/)
 - [ ] - [PRESSMAN, Roger S. Engenharia de Software. Brasil, AMGH, 2011.](https://pt.b-ok.lat/book/21768521/eb7aac)
 - [ ] - [SOMMERVILLE, Ian. Engenharia de software. Brasil, Pearson Prentice Hall, 2011.](https://pt.b-ok.lat/book/12634682/581b7d)
-- [ ] - [TANENBAUM, Andrew S., and Woodhull, Albert S. Sistemas Operacionais: Projetos e Implementação. Brasil, Grupo A - Bookman, 2009.
+- [ ] - [TANENBAUM, Andrew S., and Woodhull, Albert S. Sistemas Operacionais: Projetos e Implementação. Brasil, Grupo A - Bookman, 2009.](https://pt.b-ok.lat/book/1182431/c4f934)
 - [ ] - [TANENBAUM, Andrew S. Redes de computadores. Brasil, Elsevier, 2003.](https://pt.b-ok.lat/book/1182431/c4f934)
 - [ ] - [UM GUIA DO CONHECIMENTO EM GERENCIAMENTO DE PROJETOS (GUIA PMBOK®). N.p., Saraiva Educação S.A., 2017.](https://pt.b-ok.lat/book/2926391/f84c00)
