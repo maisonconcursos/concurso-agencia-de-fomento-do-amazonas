@@ -38,14 +38,14 @@
 - [ ] - 10. Regência nominal e verbal.
 - [ ] - 11. Significação das palavras.
 Referências:
-- [ ] - BECHARA, Evanildo. Moderna gramática portuguesa. 38. ed. São Paulo: Nova Fronteira, 2015.
+- [ ] - [BECHARA, Evanildo. Moderna gramática portuguesa. 38. ed. São Paulo: Nova Fronteira, 2015.](https://pt.b-ok.lat/book/11141591/934811)
 - [ ] - DACANAL, J. H. Manual de pontuação, teoria e prática. 5. ed. Porto Alegre: Besourobox, 2017.
 - [ ] - DIONÍSIO, Ângela et al. Gêneros textuais e ensino. 5. ed. Rio de Janeiro: Lucerna,2007.
-- [ ] - FÁVERO, LeonorLopes. Coesão e Coerência textual.11.ed. São Paulo: Ática,2006.
-- [ ] - FIORIN, José Luis e Saviolli, Francisco Platão. Lições de texto, leitura e redação. 5.ed. SãoPaulo: Ática,2006.
-- [ ] - FIORIN, José Luis e Saviolli, Francisco Platão. Para entender o texto, leitura e redação. 17. ed. São Paulo:Ática, 2007.
-- [ ] - LUFT, Celso Pedro. Dicionário prático de regência nominal. 5. ed. São Paulo: Ática, 2009. LUFT,Celso Pedro.
-- [ ] - Dicionárioprático de regênciaverbal.9. ed.SãoPaulo:Ática,2010.
+- [ ] - [FÁVERO, LeonorLopes. Coesão e Coerência textual.11.ed. São Paulo: Ática,2006.](https://pt.b-ok.lat/book/11939359/80e4f7)
+- [ ] - [FIORIN, José Luis e Saviolli, Francisco Platão. Lições de texto, leitura e redação. 5.ed. SãoPaulo: Ática,2006.](https://pt.b-ok.lat/book/4951595/bd6431)
+- [ ] - [FIORIN, José Luis e Saviolli, Francisco Platão. Para entender o texto, leitura e redação. 17. ed. São Paulo:Ática, 2007.](https://pt.b-ok.lat/book/16080640/d3f288)
+- [ ] - [LUFT, Celso Pedro. Dicionário prático de regência nominal. 5. ed. São Paulo: Ática, 2009. LUFT,Celso Pedro.](https://pt.b-ok.lat/book/6105894/5a0a65)
+- [ ] - [Dicionárioprático de regênciaverbal.9. ed.SãoPaulo:Ática,2010.](https://pt.b-ok.lat/book/6105894/5a0a65)
 - [ ] - TOMASI, Carolina e MEDEIROS, João Bosco. Ortografia: novo acordo ortográfico da língua portuguesa.2.ed.São Paulo:Atlas,2009.
 
 ##### NOÇÕES DE INFORMÁTICA:
@@ -64,12 +64,12 @@ segurança, procedimentos de backup.
 - [ ] - 6. Pacote Microsoft Office. Principais aplicativos para edição de textos,
 planilhas eletrônicas, editor de apresentações e audiovisual e Banco de Dados.
 Referências:
-- [ ] - MARÇULA, Marcelo &amp; Pio A. B. Filho. – Informática: conceitos e aplicações, 5 ed. – São Paulo: Érica,
-2019. 408 p.
+- [ ] - [MARÇULA, Marcelo &amp; Pio A. B. Filho. – Informática: conceitos e aplicações, 5 ed. – São Paulo: Érica,
+2019. 408 p.](https://pt.b-ok.lat/book/5450207/5f57cf)
 - [ ] - MANZANO, A.L.N.G. &amp; MANZANO, M.I.N.G. Estudo Dirigido de Informática Básica. São Paulo: Editora
 Ática, 2007.
-- [ ] - VELLOSO, Fernando de Castro. Informática: Conceitos Básicos. 10ªed. Rio de Janeiro: Elsevier - Campus,
-2017.
+- [ ] - [VELLOSO, Fernando de Castro. Informática: Conceitos Básicos. 10ªed. Rio de Janeiro: Elsevier - Campus,
+2017.](https://pt.b-ok.lat/book/5357617/7343a5)
 
 HISTÓRIA E GEOGRAFIA DO AMAZONAS:
 - [ ] - 1. História do Amazonas: Colonização da região do Amazonas.
@@ -81,9 +81,9 @@ crescimento, distribuição, estrutura e movimentos. O espaço econômico: desen
 atividades agropecuárias, extrativistas e industriais. O estado do Amazonas no contexto brasileiro.
 Referências:
 - [ ] - AMAZONAS. Disponível em: http://www.amazonas.am.gov.br/o-amazonas/historia/. Acesso em: 16 fev. 2022.
-- [ ] - IBGE. Atlas Geográfico Escolar – 8ª ed. Rio de Janeiro: IBGE, 2018.
+- [ ] - [IBGE. Atlas Geográfico Escolar – 8ª ed. Rio de Janeiro: IBGE, 2018.](https://biblioteca.ibge.gov.br/visualizacao/livros/liv101627.pdf)
 - [ ] - IBGE CIDADES. Disponível em: https://cidades.ibge.gov.br/. Acesso em: 16 fev. 2022.
-- [ ] - ROSS, J. L. S. (org.) Geografia do Brasil – 6ª ed. São Paulo: Edusp, 2011.
+- [ ] - [ROSS, J. L. S. (org.) Geografia do Brasil – 6ª ed. São Paulo: Edusp, 2011.](https://pt.b-ok.lat/book/11753578/2d43fc)
 - [ ] - SILVA, C. A. F.; MONTEIRO, J. L. G. Geografia Regional do Brasil. Rio de Janeiro: Consequências, 2020.
 - [ ] - SILVA, A. C; OLIC, N. B.; LOZANO, R. Geografia contextos e redes - Volume 1– 2ª ed. São Paulo: Moderna:
 2016. Disponível em: <https://pt.calameo.com/read/002899327ad6dc39bf1f1?authid=phK6t5Rixp00 >.
@@ -126,19 +126,19 @@ demonstração da responsabilidade do Estado. Causas excludentes e atenuantes da
 Estado. Regime jurídico-administrativo. Conceito. Princípios expressos e implícitos da Administração Pública.
 Orçamento Público. Receitas e Despesas. Públicas.
 Referências:
-- [ ] - BARROSO, Luis Roberto. Curso de Direito Constitucional Contemporâneo. Ed. Saraiva Jur. 7a ed. 2018.
-- [ ] - CUNHA JÚNIOR, Dirley. Curso de Direito Constitucional. Ed. Juspodivm. 13o ed. rev., ampl. e at., 2019.
-- [ ] - LENZA, Pedro. Direito Constitucional Esquematizado. Ed. Saraiva. 22a ed., 2018.
-- [ ] - MAZZA, Alexandre. Manual de Direito Administrativo. Ed. Saraiva Jur. 8a ed. 2018.
-- [ ] - TAVARES, André Ramos. Curso de Direito Constitucional. Ed. Saraiva Jur. 16a ed. 2018.
-- [ ] - ALEXANDRINO, Marcelo; PAULO, Vicente. Direito Administrativo Descomplicado. Ed. Método. 26a ed. 2018.
-- [ ] - BANDEIRA DE MELLO, Celso Antônio. Curso de Direito Administrativo. Ed. Malheiros. 33a ed. 2018.
-- [ ] - CAVALHO FILHO, José dos Santos. Manual de Direito Administrativo. Ed. Atlas. 31a ed. 2017.
-- [ ] - DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. Ed. Forense. 31a ed. 2018
-- [ ] - JUSTEN FILHO, Marçal. Curso de Direito Administrativo. Ed. Revista dos Tribunais. 13a ed. 2018.
-- [ ] - RAMOS FILHO, Carlos Alberto de Moraes. Curso de Direito Financeiro. Ed. Saraiva Jur. 1a ed. 2012.
-- [ ] - ABRAHAM, Marcus. Curso de Direito Financeiro Brasileiro. Ed. Forense. 5a ed., 2018.
-- [ ] - LEITE, Harrison Leite. Manual de Direito Financeiro. Editora Juspodivm; 8ª edição. 2018.
+- [ ] - [BARROSO, Luis Roberto. Curso de Direito Constitucional Contemporâneo. Ed. Saraiva Jur. 7a ed. 2018.](https://pt.b-ok.lat/book/5621246/9d1c7d)
+- [ ] - [CUNHA JÚNIOR, Dirley. Curso de Direito Constitucional. Ed. Juspodivm. 13o ed. rev., ampl. e at., 2019.](https://pt.b-ok.lat/book/16778433/01f388)
+- [ ] - [LENZA, Pedro. Direito Constitucional Esquematizado. Ed. Saraiva. 22a ed., 2018.](https://pt.b-ok.lat/book/21001132/e26dd5)
+- [ ] - [MAZZA, Alexandre. Manual de Direito Administrativo. Ed. Saraiva Jur. 8a ed. 2018.](https://pt.b-ok.lat/book/21730165/83a67c)
+- [ ] - [TAVARES, André Ramos. Curso de Direito Constitucional. Ed. Saraiva Jur. 16a ed. 2018.](https://pt.b-ok.lat/book/5691491/5114bc)
+- [ ] - [ALEXANDRINO, Marcelo; PAULO, Vicente. Direito Administrativo Descomplicado. Ed. Método. 26a ed. 2018.](https://pt.b-ok.lat/book/16474123/3838bd)
+- [ ] - [BANDEIRA DE MELLO, Celso Antônio. Curso de Direito Administrativo. Ed. Malheiros. 33a ed. 2018.](https://pt.b-ok.lat/book/3656399/c9adeb)
+- [ ] - [CAVALHO FILHO, José dos Santos. Manual de Direito Administrativo. Ed. Atlas. 31a ed. 2017.](https://pt.b-ok.lat/book/13592800/c565df)
+- [ ] - [DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. Ed. Forense. 31a ed. 2018](https://pt.b-ok.lat/book/11043853/89eaf4)
+- [ ] - [JUSTEN FILHO, Marçal. Curso de Direito Administrativo. Ed. Revista dos Tribunais. 13a ed. 2018.](https://pt.b-ok.lat/book/5346736/04e173)
+- [ ] - [RAMOS FILHO, Carlos Alberto de Moraes. Curso de Direito Financeiro. Ed. Saraiva Jur. 1a ed. 2012.](https://pt.b-ok.lat/book/12755432/a0e22b)
+- [ ] - [ABRAHAM, Marcus. Curso de Direito Financeiro Brasileiro. Ed. Forense. 5a ed., 2018.](https://pt.b-ok.lat/book/21821740/ac913e)
+- [ ] - [LEITE, Harrison Leite. Manual de Direito Financeiro. Editora Juspodivm; 8ª edição. 2018.](https://pt.b-ok.lat/book/7816548/97d6cc)
 
 
 ESPECIALISTA DE FOMENTO - DESENVOLVIMENTO DE SISTEMAS: 
