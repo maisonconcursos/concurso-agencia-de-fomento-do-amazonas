@@ -142,14 +142,17 @@ Referências:
 
 
 ESPECIALISTA DE FOMENTO - DESENVOLVIMENTO DE SISTEMAS: 
-- [ ] - Engenharia de Software: Ciclo de vida de software.
+* Engenharia de Software: 
+- [ ] - Ciclo de vida de software.
 - [ ] - Análise de requisitos funcionais e não-funcionais.
 - [ ] - Metodologias ágeis (SCRUM, XP).
 - [ ] - Teste de Software.
 - [ ] - Conceitos básicos, tipos de testes.
-- [ ] - Modelagem de Processo de Negócio: Conceitos básicos, Técnicas de mapeamento de processos (modelos AS-IS) e (modelos TO-BE).
+* Modelagem de Processo de Negócio:
+- [ ] - Conceitos básicos, Técnicas de mapeamento de processos (modelos AS-IS) e (modelos TO-BE).
 - [ ] - Modelagem de Processos em BPMN.
-- [ ] - Análise de Sistemas: análise e projetos de sistemas – fundamentos de engenharia software.
+* Análise de Sistemas:
+- [ ] - Análise e projetos de sistemas – fundamentos de engenharia software.
 - [ ] - Análise estruturada: ferramentas e técnicas de projetos.
 - [ ] - Análise essencial.
 - [ ] - Análise orientada a objetos, utilizando UML.
@@ -164,7 +167,8 @@ ESPECIALISTA DE FOMENTO - DESENVOLVIMENTO DE SISTEMAS:
 - [ ] - recursividade; funções e procedimentos: variáveis locais e globais; utilização de parâmetros.
 - [ ] - Modelagem de dados.
 - [ ] - Modelo entidade relacionamento.
-- [ ] - Banco de dados: conceitos e arquitetura para sistemas de dados: características de SGBD, categorias de modelos de dados.
+* Banco de dados:
+- [ ] - conceitos e arquitetura para sistemas de dados: características de SGBD, categorias de modelos de dados.
 - [ ] - Normalização.
 - [ ] - Arquitetura cliente/servidor (conceitos).
 - [ ] - Arquitetura em três camadas, Modelo MVC.
@@ -174,24 +178,27 @@ ESPECIALISTA DE FOMENTO - DESENVOLVIMENTO DE SISTEMAS:
 - [ ] - Data Warehouse / Data Mining (fundamentos).
 - [ ] - Extração, transformação e carga (ETL).
 - [ ] - Qualidade de dados.
-- [ ] - Segurança aplicada a sistemas.
+* Segurança aplicada a sistemas.
 - [ ] - Criptografia.
 - [ ] - Rotinas de Backup (cópias de segurança, restauração e recuperação).
 - [ ] - Dispositivos de Segurança.
 - [ ] - Firewall, IDS, IPS, Proxy, NAT e VPN.
 - [ ] - Malwares: vírus de computador, cavalo de troia, spyware, backdoors, keylogger, worms. 
-- [ ] - Rede de Computadores; Arquitetura e protocolos de redes de comunicação.
+* Rede de Computadores
+- [ ] - Arquitetura e protocolos de redes de comunicação.
 - [ ] - Repetidores, hubs, bridges, switches, roteadores, gateways.
 - [ ] - Arquitetura e protocolos TCP/IP.
 - [ ] - Nível de aplicação TCP/IP: DNS, FTP, NFS, TELNET, SMTP, HTTP e SNMP.
 - [ ] - Protocolo IP: endereçamento IPv4, IPv6.
 - [ ] - Redes sem fio.
 - [ ] - Padrão IEEE 802.11g/n/ac Wireless LAN.
-- [ ] - Sistema Operacional: Windows e Linux; Conceitos de kernel e Shell.
+* Sistema Operacional
+- [ ] - Windows e Linux; Conceitos de kernel e Shell.
 - [ ] - Administração de Windows 2012 e 2016 Server e Windows XP, 7, 8 e 10.
 - [ ] - Servidores WEB e de e-mail.
 - [ ] - Computação na Nuvem.
-- [ ] - Gerenciamento de projetos: PMBOK.
+* Gerenciamento de projetos: 
+- [ ] - PMBOK.
 - [ ] - Ciclo de vida de projeto.
 - [ ] - Estudo de viabilidade técnica e econômica.
 - [ ] - Métricas para estimativas e avaliação de prazo e custo (fundamentos).
