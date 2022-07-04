@@ -143,7 +143,7 @@ Referências:
 
 ESPECIALISTA DE FOMENTO - DESENVOLVIMENTO DE SISTEMAS: 
 * Engenharia de Software: 
-- [ ] - Ciclo de vida de software.
+- [x] - Ciclo de vida de software.
 - [ ] - Análise de requisitos funcionais e não-funcionais.
 - [ ] - Metodologias ágeis (SCRUM, XP).
 - [ ] - Teste de Software.
