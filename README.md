@@ -144,13 +144,13 @@ Referências:
 ESPECIALISTA DE FOMENTO - DESENVOLVIMENTO DE SISTEMAS: 
 * Engenharia de Software: 
 - [x] - Ciclo de vida de software.
-- [ ] - Análise de requisitos funcionais e não-funcionais.
+- [x] - Análise de requisitos funcionais e não-funcionais.
 - [ ] - Metodologias ágeis (SCRUM, XP).
 - [ ] - Teste de Software.
 - [ ] - Conceitos básicos, tipos de testes.
 * Modelagem de Processo de Negócio:
 - [X] - Conceitos básicos.
-- [x] - Técnicas de mapeamento de processos (modelos AS-IS) e (modelos TO-BE).
+- [ ] - Técnicas de mapeamento de processos (modelos AS-IS) e (modelos TO-BE).
 - [ ] - Modelagem de Processos em BPMN.
 * Análise de Sistemas:
 - [ ] - Análise e projetos de sistemas – fundamentos de engenharia software.
