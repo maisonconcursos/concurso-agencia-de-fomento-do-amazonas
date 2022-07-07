@@ -150,7 +150,7 @@ ESPECIALISTA DE FOMENTO - DESENVOLVIMENTO DE SISTEMAS:
 - [ ] - Conceitos básicos, tipos de testes.
 * Modelagem de Processo de Negócio:
 - [X] - Conceitos básicos.
-- [ ] - Técnicas de mapeamento de processos (modelos AS-IS) e (modelos TO-BE).
+- [x] - Técnicas de mapeamento de processos (modelos AS-IS) e (modelos TO-BE).
 - [ ] - Modelagem de Processos em BPMN.
 * Análise de Sistemas:
 - [ ] - Análise e projetos de sistemas – fundamentos de engenharia software.
