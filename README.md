@@ -146,19 +146,17 @@ ESPECIALISTA DE FOMENTO - DESENVOLVIMENTO DE SISTEMAS:
 - [x] - Ciclo de vida de software.
 - [x] - Análise de requisitos funcionais e não-funcionais.
 - [ ] - Metodologias ágeis (SCRUM, XP).
-- [ ] - Teste de Software.
-- [ ] - Conceitos básicos, tipos de testes.
-* Modelagem de Processo de Negócio:
-- [X] - Conceitos básicos.
-- [ ] - Técnicas de mapeamento de processos (modelos AS-IS) e (modelos TO-BE).
-- [ ] - Modelagem de Processos em BPMN.
-* Análise de Sistemas:
-- [ ] - Análise e projetos de sistemas – fundamentos de engenharia software.
+- [ ] - Teste de Software. Conceitos básicos, tipos de testes.
+- [ ] - Análise de Sistemas: análise e projetos de sistemas – fundamentos de engenharia software.
 - [ ] - Análise estruturada: ferramentas e técnicas de projetos.
 - [ ] - Análise essencial.
 - [ ] - Análise orientada a objetos, utilizando UML.
 - [ ] - RUP (Rational Unified Process).
 - [ ] - Ambientes e ferramentas de desenvolvimento orientado a objetos.
+* Modelagem de Processo de Negócio:
+- [X] - Conceitos básicos.
+- [ ] - Técnicas de mapeamento de processos (modelos AS-IS) e (modelos TO-BE).
+- [ ] - Modelagem de Processos em BPMN.
 - [ ] - Linguagens de Programação (fundamentos).
 - [ ] - Estruturas de controle, seleção, repetição e desvio.
 - [ ] - Linguagens e ambientes de programação.
