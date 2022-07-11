@@ -143,20 +143,20 @@ Referências:
 
 ESPECIALISTA DE FOMENTO - DESENVOLVIMENTO DE SISTEMAS: 
 * Engenharia de Software: 
-- [x] - Ciclo de vida de software [Aula 01](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552525/videos/54818) [Aula02](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552526/videos/54829)
-- [x] - Análise de requisitos funcionais e não-funcionais.[Aula03](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552532/videos/55550)
-- [ ] - Metodologias ágeis (SCRUM, XP).[Aula04](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552529/videos/56275) [Aula05](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552530/videos/56276)
-- [ ] - Teste de Software. Conceitos básicos, tipos de testes.[Aula 06](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552537/videos/56379)
-- [ ] - Análise de Sistemas: análise e projetos de sistemas – fundamentos de engenharia software.[Aula 07](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552533/videos/70144)
-- [ ] - Análise estruturada: ferramentas e técnicas de projetos.[Aula 08](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552533/videos/70144)
-- [ ] - Análise essencial.[Aula 09](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552533/videos/70144)
-- [ ] - Análise orientada a objetos, utilizando UML.[Aula 10](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552534/videos/56199)
-- [ ] - RUP (Rational Unified Process).[Aula 11](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552527/videos/55075)
+- [x] - Ciclo de vida de software. [Aula 01](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552525/videos/54818) [Aula02](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552526/videos/54829)
+- [x] - Análise de requisitos funcionais e não-funcionais. [Aula03](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552532/videos/55550)
+- [ ] - Metodologias ágeis (SCRUM, XP). [Aula04](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552529/videos/56275) [Aula05](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552530/videos/56276)
+- [ ] - Teste de Software. Conceitos básicos, tipos de testes. [Aula 06](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552537/videos/56379)
+- [ ] - Análise de Sistemas: análise e projetos de sistemas – fundamentos de engenharia software. [Aula 07](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552533/videos/70144)
+- [ ] - Análise estruturada: ferramentas e técnicas de projetos. [Aula 08](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552533/videos/70144)
+- [ ] - Análise essencial. [Aula 09](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552533/videos/70144)
+- [ ] - Análise orientada a objetos, utilizando UML. [Aula 10](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552534/videos/56199)
+- [ ] - RUP (Rational Unified Process). [Aula 11](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552527/videos/55075)
 
 * Modelagem de Processo de Negócio:
-- [X] - Conceitos básicos.[Aula 12](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179598/aulas/1552418/videos/86789)
-- [ ] - Técnicas de mapeamento de processos (modelos AS-IS) e (modelos TO-BE).[Aula 13](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179598/aulas/1552418/videos/86789)
-- [ ] - Modelagem de Processos em BPMN.[Aula 14](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179598/aulas/1552419/videos/86892)
+- [X] - Conceitos básicos. [Aula 12](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179598/aulas/1552418/videos/86789)
+- [ ] - Técnicas de mapeamento de processos (modelos AS-IS) e (modelos TO-BE). [Aula 13](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179598/aulas/1552418/videos/86789)
+- [ ] - Modelagem de Processos em BPMN. [Aula 14](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179598/aulas/1552419/videos/86892)
 
 * Desenvolvimento de Software: 
 - [ ] - Ambientes e ferramentas de desenvolvimento orientado a objetos.
