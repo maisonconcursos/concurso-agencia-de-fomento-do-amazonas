@@ -213,7 +213,7 @@ ESPECIALISTA DE FOMENTO - DESENVOLVIMENTO DE SISTEMAS:
 - [ ] - CMMI (Capability Maturity Model Integration).
 
 Referências:
-- [ ] - Conceitos de Linguagens de Programação - 11.ed. N.p., Bookman Editora, 2018]
+- [ ] - Conceitos de Linguagens de Programação - 11.ed. N.p., Bookman Editora, 2018
 * [Ler](https://pt.b-ok.lat/book/5999320/f186c7)
 * [Comprar R$82,21](https://www.amazon.com.br/Conceitos-Linguagens-Programa%C3%A7%C3%A3o-Robert-Sebesta/dp/8582604688/ref=sr_1_1?qid=1657563162&refinements=p_27%3ARobert+W.+Sebesta&s=books&sr=1-1&text=Robert+W.+Sebesta&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
 - [ ] - FOWLER, Martin, and Kobryn, Cris. UML Distilled. Boston, Addison-Wesley, 2003.
