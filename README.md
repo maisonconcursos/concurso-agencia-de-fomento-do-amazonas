@@ -145,7 +145,9 @@ ESPECIALISTA DE FOMENTO - DESENVOLVIMENTO DE SISTEMAS:
 * Engenharia de Software: 
 - [x] - Ciclo de vida de software. [Aula 01](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552525/videos/54818) [Aula02](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552526/videos/54829)
 - [x] - Análise de requisitos funcionais e não-funcionais. [Aula03](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552532/videos/55550)
-- [ ] - Metodologias ágeis (SCRUM, XP). [Aula04](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552529/videos/56275) [Aula05](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552530/videos/56276)
+- [ ] - Metodologias ágeis
+- [ ] - SCRUM [Aula04](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552529/videos/56275)
+- [ ] - XP [Aula05](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552530/videos/56276)
 - [ ] - Teste de Software. Conceitos básicos, tipos de testes. [Aula 06](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552537/videos/56379)
 - [ ] - Análise de Sistemas: análise e projetos de sistemas – fundamentos de engenharia software. [Aula 07](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552533/videos/70144)
 - [ ] - Análise estruturada: ferramentas e técnicas de projetos. [Aula 08](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552533/videos/70144)
