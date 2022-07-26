@@ -151,7 +151,7 @@ ESPECIALISTA DE FOMENTO - DESENVOLVIMENTO DE SISTEMAS:
 - [ ] - Análise estruturada: ferramentas e técnicas de projetos. [Aula 08](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552533/videos/70144)
 - [ ] - Análise essencial. [Aula 09](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552533/videos/70144)
 - [ ] - Análise orientada a objetos, utilizando UML. [Aula 10](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552534/videos/56199)
-- [ ] - RUP (Rational Unified Process). [Aula 11](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552527/videos/55075)
+- [x] - RUP (Rational Unified Process). [Aula 11](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179608/aulas/1552527/videos/55075)
 
 * Modelagem de Processo de Negócio:
 - [X] - Conceitos básicos. [Aula 12](https://www.estrategiaconcursos.com.br/app/dashboard/cursos/179598/aulas/1552418/videos/86789)
